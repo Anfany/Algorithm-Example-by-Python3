@@ -20,4 +20,8 @@
       - **归并**
    - 分配
       - **基数排序**
+      
+
+###### 扫描二维码，关注订阅号，获取更多编程、机器学习等文章。
+![image](https://github.com/Anfany/Machine-Learning-for-Beginner-by-Python3/blob/master/pythonfan_anfany.jpg)
      
